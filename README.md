@@ -1,4 +1,4 @@
 QChallenges
 ===========
 
-Some Quora challenge solutions
+Some challenge solutions
